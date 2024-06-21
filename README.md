@@ -1,3 +1,10 @@
+#Find Your Next Job 
+## This is a job board web app where:
+* You can add job postings
+* You can apply to jobs
+* You can add custom companies to apply to
+* You have multiple filters to select from when posting the job 
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
